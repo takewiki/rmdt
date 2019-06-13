@@ -1,0 +1,116 @@
+/*
+** 这里是takewki设置的设置，场景为PPT使用
+** 版本为V1.0
+** 作者：胡立磊
+** 日期：2018年
+** 版权归胡立磊个人所有
+** 参考资料来源：http://www.360doc.com/content/18/0415/14/54535126_745829250.shtml
+*/
+
+/* section 1  红色区域 */
+
+/**1.1 红色区域    **/
+/*** 包括但不限于红色，桃红，粉红 ***/
+
+.red {
+  /*红色*/
+  color: #FF0000;
+}
+.deepRed {
+  /*深红 */
+  color: #DC143C;
+}
+.lightRed {
+  color: #FFCCCC;
+}
+
+
+/**1.2 紫色区域    **/
+
+
+.purple {
+  /*紫色*/
+  color: #800080;
+}
+
+/**1.3 褐~橘~米白    **/
+
+
+.chocolate {
+  /*巧克力色*/
+  color: #D2691E;
+}
+
+.orange {
+  /*深橙色*/
+  color: #FF8C00;
+}
+
+
+.yellow {
+  /*黄色*/
+  color: #FFFF00;
+}
+
+/* 1.4金~黃 */
+
+.golden {
+  /*金黄色*/
+  color: #FFD700;
+}
+
+
+/*黃綠*/
+.darkGreen {
+  /*墨绿*/
+  color: #2F4F4F;
+}
+
+.green {
+  /*绿色*/
+  color: #008080;
+}
+
+/*藍*/
+.darkBlue {
+  /*深蓝色*/
+  color:#000080;
+}
+.midBlue {
+  /*中蓝色*/
+  color:	#0000CD;
+}
+
+.lightBlue {
+  /*浅蓝色*/
+  color: #4169E1;
+}
+.matureBlue {
+  color: #99CCFF;
+}
+.darkcyan{
+  /*深青色*/
+  color: #008B8B;
+}
+.skyBlue {
+  /*天蓝色*/
+  color: #87CECB;
+}
+/*黑~灰~白*/
+
+.dark {
+  /*黑色*/
+  color: #000000;
+}
+.darkGray {
+  /*暗灰*/
+  color: #696969;
+}
+.gray {
+  /*灰色*/
+  color: #808080;
+}
+.white {
+  /*白色*/
+  color: #FFFFFF;
+}

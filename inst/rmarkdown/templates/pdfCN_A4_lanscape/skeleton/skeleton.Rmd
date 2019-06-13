@@ -1,0 +1,130 @@
+---
+title: "Test"
+output: 
+  pdf_document:
+    includes:
+      header-includes: \usepackage{xeCJK}
+    toc: false
+    number_sections: true
+    keep_tex: yes
+    latex_engine: xelatex
+  html_document:
+    df_print: paged
+documentclass: article
+CJKmainfont: msyh.ttc
+classoption: 
+  - a4paper
+  - landscape
+---
+
+
+# aaasf
+
+# sdfdsfdsfdsf
+
+# 12321321
+
+中文测试，不要乱码
+
+12321321
+
+123213
+
+13213
+
+sdfdsfdsfdsf
+
+12321321
+
+123213213
+
+12321321
+
+123213
+
+13213
+
+sdfdsfdsfdsf
+
+12321321
+
+123213213
+
+12321321
+
+123213
+
+13213
+
+sdfdsfdsfdsf
+
+12321321
+
+123213213
+
+12321321
+
+123213
+
+13213
+
+sdfdsfdsfdsf
+
+12321321
+
+123213213
+
+12321321
+
+123213
+
+13213
+
+sdfdsfdsfdsf
+
+12321321
+
+123213213
+
+12321321
+
+123213
+
+13213
+
+sdfdsfdsfdsf
+
+12321321
+
+123213213
+
+12321321
+
+123213
+
+13213
+
+sdfdsfdsfdsf
+
+12321321
+
+123213213
+
+12321321
+
+123213
+
+13213
+
+sdfdsfdsfdsf
+
+12321321
+
+123213213
+
+12321321
+
+123213
+
+13213
+

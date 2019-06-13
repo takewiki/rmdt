@@ -1,0 +1,32 @@
+---
+title: "PDF中文自带目录撰写模板"
+author:
+  - 第一作者
+  - 第二作者
+  - 第三作者
+documentclass: ctexart
+output:
+  rticles::ctex:
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+    toc_depth: 3
+classoption: "hyperref,"
+---
+
+# 引言
+## 二级标题
+### 三级标题
+
+# 理论综述
+
+# 理论研究
+## 理论1
+## 理论2
+## 理论3
+# 问题定义
+# 问题分析
+# 问题建模
+# 决策建议
+# 总结展望
+

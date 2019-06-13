@@ -1,0 +1,4 @@
+name: PDF中文自带目录学术模板
+description: >
+   提供rmarkdown生成中文pdf中文自带目录模板
+create_dir: true

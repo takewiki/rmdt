@@ -1,0 +1,95 @@
+---
+output:
+  xaringan::moon_reader:
+    css: ["zh-CN.css", "extra.css"]
+    lib_dir: libs
+    chakra: libs/remark-latest.min.js
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+---
+background-image: url(./images/tk_Heading_169.png)
+background-position: 50% 50%
+class: top, left,
+company: 个人分享，非商业用途
+author: 胡立磊
+
+# 请在这里写标题
+
+--
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## .red[{{company}}]
+
+
+--
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+### {{author}}       `r Sys.Date()`
+---
+name: KDW
+layout: false
+background-image: url(./images/tk_Title_169.png)
+background-position: 50% 50%
+class: left, top, 
+
+
+
+---
+layout: true
+
+
+--
+
+# .matureBlue[主题1]
+
+--
+
+# .golden[主题2]
+
+--
+
+# .lightRed[主题3]
+
+---
+name: KDB
+layout: true
+background-image: url(./images/tk_Body_169.png)
+background-position: 50% 50%
+class: left, top,
+---
+
+---
+---
+---
+---
+---
+
+---
+---
+---
+
+---
+
+---
+
+---
+
+---
+---
+layout: false
+name: KDTHX
+background-image: url(./images/tk_Thankyou_169.png)
+background-position: 20% 50%
+
+
+

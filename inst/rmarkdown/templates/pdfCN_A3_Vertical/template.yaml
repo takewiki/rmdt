@@ -1,0 +1,4 @@
+name: PDF中文A3纵向打印模板
+description: >
+   提供rmarkdown生成中文pdf模板，A3纵向打印，支持中文
+create_dir: true
